@@ -1,6 +1,6 @@
 {
   "name": "@housing/react-native-gaid",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React native bridge for fetching advertising info (GAID and limited ad tracking enabled)",
   "main": "index.js",
   "scripts": {
