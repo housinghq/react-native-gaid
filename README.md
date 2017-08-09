@@ -50,7 +50,7 @@ include ':app'
 - in `MainApplication.java`:
 
 ```diff
-+ import com.mobvantage.react.gaid.RNGaidPackage;
++ import com.housing.react.gaid.RNGaidPackage;
 
   public class MainApplication extends Application implements ReactApplication {
     //......
@@ -72,7 +72,7 @@ include ':app'
 - in `MainActivity.java`:
 
 ```diff
-+ import com.mobvantage.react.gaid.RNGaidPackage;
++ import com.housing.react.gaid.RNGaidPackage;
 
   public class MainActivity extends ReactActivity {
     ......
